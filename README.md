@@ -38,7 +38,7 @@ I ❤️ Back-end Development!
 
 
 ## 🌎 Find me
-- wechat Official Account: search **guangcity**📹 ✍🏾
+- wechat Official Account: search **AI Notebook**📹 ✍🏾
 - blog: click [harrytsz](https://www.harrytsz.cn/)🏓
 
 ## 🌎 Visitors
