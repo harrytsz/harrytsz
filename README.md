@@ -6,7 +6,7 @@ I ❤️ Back-end Development!
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
-:writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.club/).
+:writing_hand: I Love write technical articles, you can visit [my websites](http://harrytsz.com/).
 
 ## ⚡ Technologies
 
@@ -28,9 +28,9 @@ I ❤️ Back-end Development!
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=light-city&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=light-city&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="harrytsz's github stats"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&bg_color=071A2C&text_color=FFFFFF" alt="harrytsz's top langs"/>
 </p>
 
 
