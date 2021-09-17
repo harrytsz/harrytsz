@@ -1,6 +1,4 @@
-# Hi,I'm Harrytsz  <img src="https://github.com/harrytsz/harrytsz/blob/main/wave.gif?raw=true" width="30px">
-
- <img src="https://github.com/harrytsz/harrytsz/blob/main/mtt.jpg?raw=true">
+# Hi,I'm Harrytsz  
 
 I ❤️ Back-end Development!
 
@@ -39,7 +37,7 @@ I ❤️ Back-end Development!
 
 ## 🌎 Find me
 - wechat Official Account: search **AI Notebook**📹 ✍🏾
-- blog: click [harrytsz](https://www.harrytsz.cn/)🏓
+- blog: click [harrytsz](http://harrytsz.com/)🏓
 
 ## 🌎 Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
