@@ -1,10 +1,10 @@
 # Hi,I'm Harrytsz  
 
-I ❤️ Back-end Development!
+I ❤️ AI Algorithm!
 
-:computer: A Back-end Engineer, currently based in ShenZhen at Tencent.
+:computer: A AI Algorithm Engineer.
 
-:vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
+:vulcan_salute: I put mostly of my focus on ai with Python/C++.
 
 :writing_hand: I Love write technical articles, you can visit [my websites](http://harrytsz.com/).
 
